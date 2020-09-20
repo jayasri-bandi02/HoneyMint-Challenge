@@ -1,0 +1,54 @@
+body
+{
+	background-color:#66ccff;
+	
+}
+img
+		{
+			width:95%;
+			height: 75%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+		}
+#contest_name
+{
+	font-size: 35px;
+	color: #990033;
+}
+ul li
+{
+list-style-type: none;	
+	display: inline-block;
+	padding:2px;
+}
+ul li label
+{
+	font-size: 35px;
+	float:left;
+}
+h1
+{
+color:#ff0066;
+font-style: italic;
+}
+#imgbtn
+{
+	width: 40px;
+}
+input[type=submit]
+{
+background-color: #ff3300;
+  border: none;
+  color: white;
+  padding: 14px 16px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+#reflink
+{
+	border:2px solid black;
+	word-wrap: fixed;
+	font-size: 17px;
+}
